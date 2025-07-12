@@ -1,4 +1,4 @@
-🛡️ SHE-ALERT PRO – Smart Emergency Safety System for Women
+🛡️ SHE-ALERT  – Smart Emergency Safety System for Women
 🚀 Overview
 SHE-ALERT PRO is a powerful, AI-driven emergency alert system designed specifically to enhance women’s safety. With just one tap, it captures your live location, clicks an instant photo, and sends an alert message to trusted contacts. The system works even on low-end systems, ensuring accessibility for everyone.
 
